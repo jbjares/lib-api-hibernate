@@ -47,7 +47,7 @@ dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.2.71"
 
     // API Extension with Hibernate
-    compile group: 'de.difuture.ekut.pht.lib', name: 'api', version: '0.1.4'
+    compile group: 'de.difuture.ekut.pht.lib', name: 'api', version: '0.1.5'
     compile group: 'org.hibernate', name: 'hibernate-core', version: '5.2.17.Final'
 }
 
