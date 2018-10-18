@@ -1,6 +1,6 @@
-package de.difuture.ekut.pht.lib.train.api.converter
+package de.difuture.ekut.pht.lib.train.api.data.converter
 
-import de.difuture.ekut.pht.lib.train.TrainTag
+import de.difuture.ekut.pht.lib.train.api.data.TrainTag
 import javax.persistence.AttributeConverter
 
 class TrainTagConverter : AttributeConverter<TrainTag, String> {
